@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TEST NG DEMO" parallel="tests" thread-count="3">
+
+<test name="test1">
+	<classes> 
+		<class name="Demo1" />
+	</classes>
+
+</test>
+
+<test name="test2">
+	<classes>
+		<class name="Demo2" />
+	</classes>
+</test>
+
+<test name="test3">
+	<classes>
+		<class name="Demo3" />
+	</classes>
+</test>
+
+</suite>
